@@ -1,4 +1,3 @@
-```markdown
 # DiffGraph R Package for Gene Network Rewiring Identification
 
 ## Overview
@@ -182,5 +181,3 @@ Following are some ways in which DiffGraph can be used for analysis from the com
 
 ## Author
 Hamad Rizwan [GitHub](https://github.com/HamadRizwan007)
-```
-
