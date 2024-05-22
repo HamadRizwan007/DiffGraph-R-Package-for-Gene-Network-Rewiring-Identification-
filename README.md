@@ -174,6 +174,24 @@ Following are some ways in which DiffGraph can be used for analysis from the com
 ### Figure 5: Pearson Correlation (Example Execution)
 ![Output of executing the following command: `Rscript script.R "D:/Project/Code" 0.50 -c "pearson"`.](images/fig5.png)
 
+## License
+
+The DiffGraph R package is licensed under the MIT License. See the LICENSE.md file for details.
+
+## Contributing
+
+We welcome contributions to the DiffGraph R package! To contribute to the project, please follow these guidelines:
+
+1. Fork the repository and clone it to your local machine.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and ensure that the code follows the project's coding standards.
+4. Write tests to cover your changes if applicable.
+5. Run the existing test suite and ensure that all tests pass.
+6. Commit your changes and push them to your fork.
+7. Submit a pull request to the main repository, providing a clear description of your changes and why they are needed.
+
+For major changes, please open an issue first to discuss the proposed changes with the maintainers.
+
 ## References
 - Xiao-Fei Zhang, Le Ou-Yang, Shuo Yang, Xiaohua Hu and Hong Yan (2017), DiffGraph: An R package for identifying gene network rewiring using differential graphical models.
 - Huili Yuan, Ruibin Xi, Chong Chen and Minghua Deng (2017). Differential network analysis via lasso penalized D-trace loss. Biometrika, 104(4), 755–770.
